@@ -1,1 +1,1 @@
-playing with layouts for my zine-blog-thing
+client side
